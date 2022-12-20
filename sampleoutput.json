@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Kelly Tyko",
+      "title": "Where to get Halloween deals and free food",
+      "description": "Chipotle Boorito returns as an in-person costume deal for the first time since the pandemic.",
+      "url": "https://www.axios.com/2022/10/31/halloween-2022-deals-free-food",
+      "urlToImage": "https://images.axios.com/IqCdZORyu5SJTEWoRjBl8kxum2k=/0x0:1920x1080/1366x768/2022/10/30/1667144685964.jpg",
+      "publishedAt": "2022-10-31T09:46:05Z",
+      "content": "Halloween is expected to scare up a new spending record with participation returning to pre-pandemic levels and inflated candy prices.\r\nWhy it matters: The National Retail Federations annual holiday … [+5562 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "World food supplies at risk as Russia withdraws from Black Sea deal",
+      "description": "Russia's weekend backtrack from a U.N.-brokered deal to export Black Sea grains is likely to hit shipments to import-dependent countries, deepening a global food crisis and sparking gains in prices.",
+      "url": "https://www.reuters.com/world/world-food-supplies-risk-russia-withdraws-black-sea-deal-2022-10-31/",
+      "urlToImage": "https://www.reuters.com/resizer/SgpXcsBEXoAhCM2vQFQVqZ5IqDk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVFLV5ODJ5LQPPTDIYI7AHQZYI.jpg",
+      "publishedAt": "2022-10-31T04:35:12Z",
+      "content": "SINGAPORE, Oct 31 (Reuters) - Russia's weekend backtrack from a U.N.-brokered deal to export Black Sea grains is likely to hit shipments to import-dependent countries, deepening a global food crisis … [+2732 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Dipak K Dash",
+      "title": "Government to provide 5 kg free food grains to poor for May & June",
+      "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+      "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T04:23:00Z",
+      "content": null
+    }
+  ]
+}
